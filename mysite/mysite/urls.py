@@ -30,4 +30,5 @@ urlpatterns = [
         {'document_root': SITE_ROOT, 'show_indexes': True},
         name='site_path'
     ),
+    path ('', include('blog.urls')),
 ]
