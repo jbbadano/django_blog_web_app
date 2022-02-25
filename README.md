@@ -14,7 +14,7 @@ Thanks for checking it out!
 ## How I made it
 
 * I started the web app in the project folder for my site, by running 
-  `python manage.py startapp blog` in the mysite folder.
+  `python manage.py startapp blog` in the `mysite` folder.
 
 * After this I added `blog` to my `INSTALLED_APPS` in the `settings.py` file.
 
