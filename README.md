@@ -4,7 +4,7 @@ The Django Hub
 
 ## Introduction 
 
-**The Django Hub** is a blog application designed and deployed in Django. It's main 
+**The Django Hub** is a blog application I designed and deployed in Django. It's main 
 purpose is to share my knowledge of the Django framework as I learn, and to 
 implement technical features of Django so I can learn even more.
 It is available at https://spiderflocks.pythonanywhere.com.
